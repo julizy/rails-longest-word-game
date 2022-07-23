@@ -13,3 +13,11 @@
  *= require_tree .
  *= require_self
  */
+
+ @import url("games/new.css");
+ @import url("games/score.css");
+
+ .main {
+   margin: 100px;
+   max-width: 600px;
+ }
